@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Compose</string>
+    <string name="happy_bday">Happy Bday</string>
+    <string name="article_title">Jetpack Compose tutorial</string>
+    <string name="article_content_one">Jetpack Compose is a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="article_content_two">In this tutorial, you build a simple UI component with declarative functions. You call Compose functions to say what elements you want and the Compose compiler does the rest. Compose is built around Composable functions. These functions let you define your app\'s UI programmatically because they let you describe how it should look and provide data dependencies, rather than focus on the process of the UI\'s construction, such as initializing an element and then attaching it to a parent. To create a Composable function, you add the @Composable annotation to the function name.</string>
+    <string name="task_manager_title">All tasks completed</string>
+    <string name="task_manager_content">"Nice work! "</string>
+    <string name="quadrant_top_left_title">Text composable</string>
+    <string name="quadrant_top_left_message">Displays text and follows Material Design guidelines.</string>
+    <string name="quadrant_top_right_title">"Image composable "</string>
+    <string name="quadrant_top_right_message">"Creates a composable that lays out and draws a given Painter class object. "</string>
+    <string name="quadrant_bottom_left_title">"Row composable "</string>
+    <string name="quadrant_bottom_left_message">"A layout composable that places its children in a horizontal sequence. "</string>
+    <string name="quadrant_bottom_right_title">"Column composable "</string>
+    <string name="quadrant_bottom_right_message">"A layout composable that places its children in a vertical sequence. "</string>
+    <string name="business_card_android_title">android</string>
+    <string name="business_card_name">Zane Rastrick</string>
+    <string name="business_card_android_dev">Android Developer Extraordinaire</string>
+    <string name="business_card_phone_number">+11 (123) 444 555 666</string>
+</resources>
