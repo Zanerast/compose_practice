@@ -23,4 +23,12 @@
     <string name="how_was_the_service">Tip (%)</string>
     <string name="round_up_tip">Round up tip?</string>
     <string name="tip_amount">Tip Amount: %s</string>
+    <string name="accessible_forward_image_title">Accessible Forward</string>
+    <string name="accessible_forward_image_artist">Zane R (2023)</string>
+    <string name="android_image_title">Android Head</string>
+    <string name="android_image_artist">Google (2033)</string>
+    <string name="launcher_image_title">Launcher</string>
+    <string name="launcher_image_artist">Google (20353)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
 </resources>
